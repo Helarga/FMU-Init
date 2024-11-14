@@ -1,0 +1,6 @@
+mingw32-make: Entering directory 'D:/Results/Modelica.Thermal.HeatTransfer.Examples.Utilities.InverseCapacity'
+rm -f InverseCapacity.fmutmp/sources/InverseCapacity_init.xml
+cp -a "C:/Program Files/OpenModelica1.22.2-64bit/share/omc/runtime/c/fmi/buildproject/"* InverseCapacity.fmutmp/sources
+cp -a InverseCapacity_FMU.libs InverseCapacity.fmutmp/sources/
+mingw32-make: Leaving directory 'D:/Results/Modelica.Thermal.HeatTransfer.Examples.Utilities.InverseCapacity'
+RESULT: 0 
